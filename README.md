@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**shihab-213/shihab-213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Replace YOUR_USERNAME and placeholder details with your own info -->
+​<div align="center">
+​<!-- Animated Monospace Header -->
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Your+Name+%F0%9F%91%8B;Full-Stack+Developer+%26+Builder;Crafting+Fast+%26+Clean+Software" alt="Typing SVG" />
+</a>
+​<p>
+Building fast, open-source software and clean, responsive web experiences.
+</p>
+​<!-- Status & Quick Badges -->
+<p>
+<img src="https://img.shields.io/badge/Status-Available_for_work-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Location-Dhaka%2C_BD-141414?style=for-the-badge&logo=googlemaps&logoColor=10B981" alt="Location" />
+<a href="https://YOUR_USERNAME.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Live_Site-141414?style=for-the-badge&logo=vercel&logoColor=EDEDED" alt="Portfolio" />
+</a>
+</p>
+​</div>
+​>_ whoami
